@@ -1,0 +1,52 @@
+﻿body 
+{ 
+font-family: arial, helvetica, verdana, sans serif; 
+font-size:14px;  background-color:lightgreen;
+ } 
+
+a:link 
+{ 
+color: black;
+background-color: #c7e287;
+text-decoration:underline;
+Font-family: arial, helvetica, verdana, sans serif;
+font-size:14px;
+} 
+
+a:HOVER {
+	color: #ff0000;
+	font-size: 14px;
+}
+
+a:visited {
+	color: #003386;
+	font-size: 14px;
+}
+a:active {
+	color: #7100c9;
+	font-size: 14px;
+}
+p 
+{ 
+text-indent: 25%; 
+} 
+
+p.margins 
+{ 
+margin-left: 20%; 
+margin-right: 20%;
+Font-family: arial, helvetica, verdana, sans serif;
+Font-size: 16px
+} 
+
+h1
+{
+font-weight: normal;
+font-size: 28px; 
+font-color: #FF4500; 
+font-family: arial; 
+text-align: center;
+}
+
+
+
